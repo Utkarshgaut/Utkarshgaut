@@ -96,59 +96,71 @@ Here are some ideas to get you started:
 
 ⭐ **Feel free to fork and ⭐ my repositories! Let's build something great together.**
 -->
-
 <h1 align="center">👋 Hey there, I'm Utkarsh Gautam!</h1>
-<h3 align="center">🚀 Java Developer | Python | SQL | Full Stack Enthusiast</h3>
+<h3 align="center">🚀 Java | Python | SQL | DBMS | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+Problem+Solver;Java+%7C+Python+%7C+SQL+%7C+MERN+Stack;Passionate+about+AI+%7C+Cloud+%7C+Database+Management" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+Problem+Solver;Java+%7C+Python+%7C+SQL+%7C+MERN+Stack;Database+Management+%7C+Computer+Networks+%7C+AI+%7C+Blockchain;Passionate+about+Cloud+%7C+Security+%7C+Scalability" />
 </p>
 
 ---
 
 ### 🏆 **About Me**
-- 💼 **Java Developer** | **SQL & Database Enthusiast**
+- 💼 **Java & Python Developer** | **SQL & Database Management** | **MERN Stack Developer**
 - 🎓 **Final Year BCA (Blockchain Specialization) @ JECRC University, Jaipur (2025)**
-- 💡 **Passionate about AI, Data Management, and Full-Stack Development**
-- 🔍 Currently exploring **AI-driven SaaS applications & database optimization**
+- 💡 **Expert in designing scalable software, AI chatbots, and database-driven applications**
+- 🔍 **Currently exploring:** AI-driven SaaS, Cloud Computing & Enterprise Databases  
 - ✨ **Building:** [AI SaaS Chatbot](https://github.com/UtkarshGautam/AI-SaaS-Chatbot) using **MERN + OpenAI API**
-- ⚡ **Looking for:** Software Development & Database Management Roles
+- ⚡ **Looking for:** Software Development, Data Engineering & Full-Stack Roles  
 
 ---
 
-### 🚀 **Tech Stack**
+### 🚀 **Technical Skills**
+#### **🌟 Core Programming & Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Network-FF4500?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Networks-FF4500?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+#### **🌐 Full-Stack Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 **Projects**
-🔹 **[AI SaaS Chatbot (MERN + OpenAI)](https://github.com/UtkarshGautam/AI-SaaS-Chatbot)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 Scalable AI chatbot with **JWT authentication, MongoDB chat history, and OpenAI integration**  
+#### 🔹 **Featured Projects (Highlighting Your Key Skills)**
+🛠️ **[AI SaaS Chatbot (MERN + OpenAI)](https://github.com/UtkarshGautam/AI-SaaS-Chatbot)**  
+💡 A powerful **AI chatbot** with **secure authentication, chat storage & OpenAI integration**  
 
-🔹 **[Java Florist Order Manager](https://github.com/UtkarshGautam/Java-Florist-Manager)**  
-&nbsp;&nbsp;&nbsp;&nbsp;💐 A **Java-based order manager** for florists, automating billing and transaction storage  
+📊 **[Pizza Sales Analysis (SQL)](https://github.com/UtkarshGautam/Pizza-Sales-Analysis)**  
+🔍 **Analyzed pizza sales data** for **forecasting & optimizing inventory using SQL**  
 
-🔹 **[Pizza Sales Analysis (SQL)](https://github.com/UtkarshGautam/Pizza-Sales-Analysis)**  
-&nbsp;&nbsp;&nbsp;&nbsp;📊 Analyzed pizza sales trends and optimized **inventory & forecasting using SQL**  
+🗃️ **[Data Management for Small Business (MySQL)](https://github.com/UtkarshGautam/Small-Business-DBMS)**  
+📂 **Created an efficient MySQL database** to **store and manage business-critical data**  
 
-🔹 **[Data Management for Small Business (MySQL)](https://github.com/UtkarshGautam/Small-Business-DBMS)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🗃️ **Designed a MySQL database** for small businesses to manage and retrieve critical data  
+💐 **[Java Florist Order Manager](https://github.com/UtkarshGautam/Java-Florist-Manager)**  
+🖥️ A **Java-based billing system** for florists to manage transactions & store purchase history  
 
-🔹 **[ShopperStop (E-commerce MERN App)](https://github.com/UtkarshGautam/ShopperStop)**  
-&nbsp;&nbsp;&nbsp;&nbsp;🛍️ Full-stack e-commerce site with **browsing, cart management & Stripe payments**  
+#### 🔹 **Other Notable Projects**
+🛍️ **[ShopperStop - E-Commerce (MERN)](https://github.com/UtkarshGautam/ShopperStop)**  
+🛒 A **full-stack e-commerce** platform with **secure payments & cart management**  
 
-🔹 **[Virtual PA (AI Assistant)](https://github.com/UtkarshGautam/Virtual-PA)**  
-&nbsp;&nbsp;&nbsp;&nbsp;📅 Personal Assistant for **automating schedules, reminders, and task management**  
+📅 **[Virtual PA - Personal Assistant (Python)](https://github.com/UtkarshGautam/Virtual-PA)**  
+📌 AI-powered **scheduler, reminders & task manager**  
+
+🔑 **[Password Generator (JavaScript)](https://github.com/UtkarshGautam/Password-Generator)**  
+🔐 **Custom password generator** with advanced security features  
 
 💡 **More Projects:** [GitHub Repositories](https://github.com/UtkarshGautam?tab=repositories)
 
@@ -163,6 +175,13 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=UtkarshGautam&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshGautam&layout=compact&theme=radical&hide_border=true" />
 </p>
+
+---
+
+### 📜 **Certifications**
+✅ **Digital Forensics & Cloud Computing** - iHUB Divya Sampark  
+✅ **CSS Bootcamp Certificate** - CodeKaro  
+✅ **C++ Certification** - LinkedIn  
 
 ---
 
@@ -182,4 +201,3 @@ Here are some ideas to get you started:
 ---
 
 ⭐ **Feel free to fork and ⭐ my repositories! Let's build something great together.**
-
